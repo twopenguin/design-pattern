@@ -5,4 +5,5 @@ package com.zcd.learn.designpattern.proxy;
  */
 public interface IFunction {
     int function(int a, int b);
+    void print();
 }

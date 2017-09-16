@@ -1,4 +1,6 @@
-package com.zcd.learn.designpattern.proxy;
+package com.zcd.learn.designpattern.proxy.jdkproxy;
+
+import com.zcd.learn.designpattern.proxy.IFunction;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
